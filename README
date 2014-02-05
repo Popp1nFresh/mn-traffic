@@ -1,0 +1,6 @@
+Popp1nFresh 2/5/2014
+
+MN traffic map (from MNDot) that will request a user's location through JavaScript/JQuery.
+
+The user's location is not a perfect projection (took a 'World is Flat' view) so the further north
+a user is the more off their location, indicated by a blue dot, will be.
